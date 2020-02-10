@@ -1,4 +1,4 @@
-//"groups the arrays into an array of arrays of given length, any remainding go in last array"
+//"capitilize the first letter of each word"
 
 const titleCase = str => {
   let words = str.toLowerCase().split(" ");
